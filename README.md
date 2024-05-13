@@ -1,8 +1,6 @@
 # Sistema de Comércio Eletrônico com Spring
 
-![Projeto em Diagrama UML de Classes](https://github.com/Iuryppedrosa/Projeto-Web-Services-Spring-Jpa-Hibernate/blob/main/319290591-04146f90-ba5e-4c8d-9332-0fee219f2aee.png?raw=true)
-
-![Projeto em Diagrama UML de Classes](https://github.com/Iuryppedrosa/Projeto-Web-Services-Spring-Jpa-Hibernate/blob/main/319290560-a6d74d4a-7292-4ae7-997e-02b0def359eb.png?raw=true)
+![Projeto em Diagrama UML de Classes](https://github.com/Iuryppedrosa/Projeto-Web-Services-Spring-Jpa-Hibernate/blob/main/319210090-111a2e79-d4eb-40c7-bb1e-d0038d90abd2.png?raw=true)
 
 
 
