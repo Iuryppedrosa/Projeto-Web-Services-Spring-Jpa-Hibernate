@@ -1,6 +1,8 @@
 # Sistema de Comércio Eletrônico com Spring
 
-![Projeto em Diagrama UML de Classes](https://private-user-images.githubusercontent.com/89420889/319210090-111a2e79-d4eb-40c7-bb1e-d0038d90abd2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMDk3NDYsIm5iZiI6MTcxMzMwOTQ0NiwicGF0aCI6Ii84OTQyMDg4OS8zMTkyMTAwOTAtMTExYTJlNzktZDRlYi00MGM3LWJiMWUtZDAwMzhkOTBhYmQyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE2VDIzMTcyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5ZDgxZjkyZjAzMzBkYWYxMTJmMDBkMzRiY2QzZTdhNWJmMWNmMzA5MDg3MzRkYjc5ODZmZjRhNGVmNmZmMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JIX2RIHBQBic1hDvZql-nB3-FbmTWDHddF3AwANEodI)
+![Projeto em Diagrama UML de Classes](https://github.com/Iuryppedrosa/Projeto-Web-Services-Spring-Jpa-Hibernate/blob/main/319290591-04146f90-ba5e-4c8d-9332-0fee219f2aee.png?raw=true)
+
+![Projeto em Diagrama UML de Classes](https://github.com/Iuryppedrosa/Projeto-Web-Services-Spring-Jpa-Hibernate/blob/main/319290560-a6d74d4a-7292-4ae7-997e-02b0def359eb.png?raw=true)
 
 
 
